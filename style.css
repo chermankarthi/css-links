@@ -1,0 +1,26 @@
+
+a:link{
+  color:red;
+  text-decoration:none;
+}
+
+
+a:visited{
+  color: green;
+  
+}
+
+
+a:hover{
+  color:pink;
+}
+
+
+a:active{
+  color: blue;
+}
+
+
+
+
+
